@@ -4,11 +4,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/RedMagicTurtle"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/login" alt="Discord profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/246754849515896833" alt="Discord profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://lexroza.itch.io/thehiddensecret"><img width="32px" alt="Itch.io" title="The Hidden Secret Game By Me" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/itchio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/nezukobot"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/image.png"><img width="32px" alt="Genshin Stats" title="Genshin Stats" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/paimon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
