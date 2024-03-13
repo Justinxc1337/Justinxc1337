@@ -17,23 +17,21 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Giingu** a fullstack-dev student [@LinkedIn]([https://www.linkedin.com/company/get-picnic/mycompany/](https://www.linkedin.com/in/justin-chardonnay-99343717a/))✨
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently a student in **Denmark**
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **everything**
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 💬 Ask me about **stuff???**
 
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **[REDCATED]**
 
 </details>
   
@@ -57,7 +55,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Justinxc1337/The-Hidden-Secret"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
@@ -76,15 +74,3 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
   <a href="https://github.com/giingu">
     <img alt="views" title="GitHub profile views" src="https://kounter.tk/badge/giingu?label=&color=333&style=for-the-badge&cntSuffix=%20Views"/></a>
 </p>
-
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
-
-
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-  </div>
