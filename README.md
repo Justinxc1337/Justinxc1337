@@ -1,6 +1,6 @@
 <a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
+  <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" target="_blank" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/RedMagicTurtle"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
