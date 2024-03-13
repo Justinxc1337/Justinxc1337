@@ -56,8 +56,8 @@ Hi 👋, I am **Justin** a fullstack-dev student [@Zealand](https://www.zealand.
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/Justinxc1337/The-Hidden-Secret"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justinxc1337&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Justinxc1337/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justinxc1337&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Justinxc1337/The-Hidden-Secret"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Justinxc1337&repo=The-Hidden-Secret&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Justinxc1337/Scrapydba"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Justinxc1337&repo=Scrapydba&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
