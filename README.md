@@ -1,4 +1,4 @@
-<a href="https://anilist.co/user/LexRoZa/animelist"><img src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/toradora.png" width="100%" height="auto"/></a>
+<a href="https://anilist.co/user/LexRoZa/animelist"><img src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/toradora-transformed.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" target="_blank" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
