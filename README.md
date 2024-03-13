@@ -4,7 +4,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/RedMagicTurtle"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/246754849515896833" alt="Discord profile"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/246754849515896833" alt="Discord profile" target="_blank" rel="noopener noreferrer"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://lexroza.itch.io/thehiddensecret"><img width="32px" alt="Itch.io" title="The Hidden Secret Game By Me" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/itchio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
