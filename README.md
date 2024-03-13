@@ -10,14 +10,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/image.png"><img width="32px" alt="Genshin Stats" title="Genshin Stats" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/paimon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com/nezukobot"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://www.linkedin.com/in/justin-chardonnay-99343717a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/linkedin.png"/></a>
 </p>
 
 <br/>
 
 <p>
   
-Hi 👋, I am **Justin** a fullstack-dev student [@LinkedIn]((https://www.linkedin.com/in/justin-chardonnay-99343717a/))✨
+Hi 👋, I am **Justin** a fullstack-dev student [@Zealand](https://www.zealand.dk/)✨
 
 <div>
 <details>
