@@ -1,15 +1,15 @@
 <a href="https://anilist.co/user/LexRoZa/animelist"><img src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/toradora-transformed.png" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" target="_blank" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/RedMagicTurtle"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <!-- <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" target="_blank" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://justinxcportfolio.pages.dev/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/pf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/246754849515896833" alt="Discord profile" target="_blank" rel="noopener noreferrer"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://lexroza.itch.io/thehiddensecret"><img width="32px" alt="Itch.io" title="The Hidden Secret Game By Me" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/itchio.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/image.png"><img width="32px" alt="Genshin Stats" title="Genshin Stats" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/paimon.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- <a href="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/image.png"><img width="32px" alt="Genshin Stats" title="Genshin Stats" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/paimon.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.linkedin.com/in/justin-chardonnay-99343717a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/linkedin.png"/></a>
 </p>
 <br/>
