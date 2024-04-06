@@ -1,4 +1,4 @@
-<a href="https://anilist.co/user/LexRoZa/animelist"><img src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/toradora-transformed.png" width="100%" height="auto"/></a>
+<a href="https://anilist.co/user/LexRoZa/animelist"><img src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/datamatiker.png" width="100%" height="auto"/></a>
 <p align="center">
   <!-- <a href="https://steamcommunity.com/id/LexRoZa/"><img width="32px" alt="Steam" target="_blank" title="Steam" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/steam.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287; -->
@@ -44,13 +44,11 @@ Hi 👋, I am **Justin** a fullstack-dev student [@Zealand](https://www.zealand.
 
 - 🔭 I’m currently a student in **Denmark**
 
-- 🌱 I’m currently learning **everything**
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 🌱 I’m currently learning **something idk**
 
 - 💬 Ask me about **stuff???**
 
-- 📫 Reach me out at **[REDCATED]**
+- 📫 Reach me at **[REDACTED]**
 
 </details>
   
@@ -66,7 +64,7 @@ Hi 👋, I am **Justin** a fullstack-dev student [@Zealand](https://www.zealand.
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/aqua.png"/>
+<img align="right" width="38%" src="https://github.com/Justinxc1337/Justinxc1337/blob/main/pics/upright.png"/>
 
   <a href="https://github.com/Justinxc1337"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Justinxc1337&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Justinxc1337"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Justinxc1337&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
